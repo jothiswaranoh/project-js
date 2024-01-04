@@ -16,11 +16,11 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Services</h5>
-                <a class="btn btn-link" href="">Cardiology</a>
-                <a class="btn btn-link" href="">Pulmonary</a>
-                <a class="btn btn-link" href="">Neurology</a>
-                <a class="btn btn-link" href="">Orthopedics</a>
-                <a class="btn btn-link" href="">Laboratory</a>
+                <a class="btn btn-link" href="">Milk</a>
+                <a class="btn btn-link" href="">Ghee</a>
+                <a class="btn btn-link" href="">Curd</a>
+                <a class="btn btn-link" href="">Milk</a>
+                <a class="btn btn-link" href="">Milk</a>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Quick Links</h5>

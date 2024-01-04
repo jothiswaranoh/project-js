@@ -67,19 +67,19 @@
       <div class="row g-4">
         <div class="col-sm-4">
           <div class="border-start border-light ps-4">
-            <h2 class="text-white mb-1" data-toggle="counter-up">123</h2>
-            <p class="text-light mb-0">Expert Products</p>
+            <h2 class="text-white mb-1" data-toggle="counter-up">25</h2>
+            <p class="text-light mb-0">Quality Products</p>
           </div>
         </div>
-        <div class="col-sm-4">
+        <!-- <div class="col-sm-4">
           <div class="border-start border-light ps-4">
             <h2 class="text-white mb-1" data-toggle="counter-up">1234</h2>
-            <p class="text-light mb-0">Medical Stuff</p>
+            <p class="text-light mb-0"></p>
           </div>
-        </div>
+        </div> -->
         <div class="col-sm-4">
           <div class="border-start border-light ps-4">
-            <h2 class="text-white mb-1" data-toggle="counter-up">12345</h2>
+            <h2 class="text-white mb-1" data-toggle="counter-up">55</h2>
             <p class="text-light mb-0">Total Clients</p>
           </div>
         </div>
