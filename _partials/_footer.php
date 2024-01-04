@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Address</h5>
                 <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>No:W.760,3B,3rd Floor 4th Avenue,Anna Nagar,<br /> West Extension, Chennai-600101,TamilNadu,India</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 90478 55888 <br/>&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; +91 94433 38498</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 90478 55888 <br />&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; +91 94433 38498</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@jaisubagroups.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-twitter"></i></a>
