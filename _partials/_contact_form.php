@@ -37,13 +37,13 @@
           <form>
             <div class="row g-3 d-flex align-items-center">
               <div class="col-12 rounded-2">
-                <input type="text" class="form-control border-0" placeholder="Your Name" style="height: 55px" />
+                <input type="text" class="form-control input-height border-0" placeholder="Your Name"  />
               </div>
               <div class="col-12 rounded-2">
-                <input type="email" class="form-control border-0" placeholder="Your Email" style="height: 55px" />
+                <input type="email" class="form-control input-height border-0" placeholder="Your Email"  />
               </div>
               <div class="col-12 rounded-2">
-                <input type="text" class="form-control border-0" placeholder="Your Mobile" style="height: 55px" />
+                <input type="text" class="form-control input-height border-0" placeholder="Your Mobile" />
               </div>
               <div class="col-12 rounded-2">
                 <textarea class="form-control border-0" rows="5" placeholder="Describe your thoughts..."></textarea>

@@ -488,3 +488,6 @@
 .footer .copyright a:hover {
   color: var(--primary);
 }
+.input-height{
+  height: 55px;
+}
